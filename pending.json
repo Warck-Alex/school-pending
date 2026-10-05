@@ -143,5 +143,21 @@
       "subjectName": "Белорусский язык",
       "gradeId": "muuceg7m3xk8n59"
     }
+  },
+  {
+    "id": "muv8c20sbtwp24l",
+    "type": "grade",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "warck@tut.by",
+    "byName": "Михайлов Даниил",
+    "createdAt": "2026-10-05T12:32:11.068Z",
+    "payload": {
+      "op": "delete",
+      "subjectName": "Белорусский язык",
+      "gradeId": "muv4yr3h7y0ez3g"
+    }
   }
 ]
