@@ -299,5 +299,28 @@
     },
     "processedAt": "2026-10-05T12:34:30.774Z",
     "processedBy": "warck@mail.ru"
+  },
+  {
+    "id": "muv9eyjhld28k3n",
+    "type": "new_user",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "irina@mail.ru",
+    "byName": "Михайлов Даниил",
+    "createdAt": "2026-10-05T13:02:26.141Z",
+    "payload": {
+      "user": {
+        "uid": "muv9eyjbcxxih39",
+        "email": "irina@mail.ru",
+        "name": "Михайлов Даниил",
+        "studentId": "muu91ecs2xn7yt5",
+        "salt": "muv9evfszybiyyemuv9evfsi7p3zwr",
+        "passwordHash": "695adc753aafca8331c27ecb6d8612843f43ae07d64bf9cd2caf0509fec0b419",
+        "createdAt": "2026-10-05T13:02:26.135Z"
+      },
+      "student": null
+    }
   }
 ]
