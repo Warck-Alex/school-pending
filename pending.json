@@ -207,5 +207,21 @@
       "subjectName": "Физика",
       "gradeId": "muv39dcqamapazn"
     }
+  },
+  {
+    "id": "muv8ca33mvl99a6",
+    "type": "grade",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "warck@tut.by",
+    "byName": "Михайлов Даниил",
+    "createdAt": "2026-10-05T12:32:21.519Z",
+    "payload": {
+      "op": "delete",
+      "subjectName": "Физика",
+      "gradeId": "muv39adexhu4001"
+    }
   }
 ]
