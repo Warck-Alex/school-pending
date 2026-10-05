@@ -285,7 +285,7 @@
   {
     "id": "muv8ew08c908fpt",
     "type": "grade",
-    "status": "pending",
+    "status": "approved",
     "studentId": "muu91ecs2xn7yt5",
     "studentName": "Михайлов Даниил",
     "owner": "self",
@@ -296,6 +296,8 @@
       "op": "delete",
       "subjectName": "Русский язык",
       "gradeId": "muv8aexzcm5l909"
-    }
+    },
+    "processedAt": "2026-10-05T12:34:30.774Z",
+    "processedBy": "warck@mail.ru"
   }
 ]
