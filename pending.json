@@ -79,5 +79,21 @@
       "subjectName": "Русский язык",
       "gradeId": "muv38k2umutsuc2"
     }
+  },
+  {
+    "id": "muv8bt7bi70uymh",
+    "type": "grade",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "warck@tut.by",
+    "byName": "Михайлов Даниил",
+    "createdAt": "2026-10-05T12:31:59.639Z",
+    "payload": {
+      "op": "delete",
+      "subjectName": "Русский язык",
+      "gradeId": "muuce7j83hf2qpr"
+    }
   }
 ]
