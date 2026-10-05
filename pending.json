@@ -211,7 +211,7 @@
   {
     "id": "muv8c8577mh8uj8",
     "type": "grade",
-    "status": "pending",
+    "status": "approved",
     "studentId": "muu91ecs2xn7yt5",
     "studentName": "Михайлов Даниил",
     "owner": "self",
@@ -222,7 +222,9 @@
       "op": "delete",
       "subjectName": "Физика",
       "gradeId": "muv39dcqamapazn"
-    }
+    },
+    "processedAt": "2026-10-05T12:33:15.992Z",
+    "processedBy": "warck@mail.ru"
   },
   {
     "id": "muv8ca33mvl99a6",
