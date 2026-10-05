@@ -47,5 +47,21 @@
     },
     "processedAt": "2026-10-05T12:31:21.728Z",
     "processedBy": "warck@mail.ru"
+  },
+  {
+    "id": "muv8bpbk2fk45ds",
+    "type": "grade",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "warck@tut.by",
+    "byName": "Михайлов Даниил",
+    "createdAt": "2026-10-05T12:31:54.608Z",
+    "payload": {
+      "op": "delete",
+      "subjectName": "Русский язык",
+      "gradeId": "muv38sykrwjso36"
+    }
   }
 ]
