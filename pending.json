@@ -303,7 +303,7 @@
   {
     "id": "muv9eyjhld28k3n",
     "type": "new_user",
-    "status": "pending",
+    "status": "approved",
     "studentId": "muu91ecs2xn7yt5",
     "studentName": "Михайлов Даниил",
     "owner": "self",
@@ -321,6 +321,8 @@
         "createdAt": "2026-10-05T13:02:26.135Z"
       },
       "student": null
-    }
+    },
+    "processedAt": "2026-10-05T13:02:53.889Z",
+    "processedBy": "warck@mail.ru"
   }
 ]
