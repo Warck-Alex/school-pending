@@ -21,5 +21,27 @@
       },
       "student": null
     }
+  },
+  {
+    "id": "muv8aey0ewdylzl",
+    "type": "grade",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "warck@tut.by",
+    "byName": "Михайлов Даниил",
+    "createdAt": "2026-10-05T12:30:54.504Z",
+    "payload": {
+      "op": "add",
+      "subjectName": "Русский язык",
+      "gradeId": "muv8aexzcm5l909",
+      "grade": {
+        "value": 10,
+        "type": "Другое",
+        "date": "2026-10-05",
+        "comment": ""
+      }
+    }
   }
 ]
