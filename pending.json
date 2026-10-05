@@ -390,5 +390,27 @@
         "comment": ""
       }
     }
+  },
+  {
+    "id": "muv9l54kgww4bm8",
+    "type": "grade",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "warck@tut.by",
+    "byName": "Михайлов Даниил",
+    "createdAt": "2026-10-05T13:07:14.612Z",
+    "payload": {
+      "op": "add",
+      "subjectName": "Биология",
+      "gradeId": "muv9l54grqcozxg",
+      "grade": {
+        "value": 6,
+        "type": "Другое",
+        "date": "2026-10-05",
+        "comment": ""
+      }
+    }
   }
 ]
