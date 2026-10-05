@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "muv8a79fq21wnm3",
+    "type": "new_user",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "warck@tut.by",
+    "byName": "Михайлов Даниил",
+    "createdAt": "2026-10-05T12:30:44.547Z",
+    "payload": {
+      "user": {
+        "uid": "muv8a79di6b7p59",
+        "email": "warck@tut.by",
+        "name": "Михайлов Даниил",
+        "studentId": "muu91ecs2xn7yt5",
+        "salt": "muv8a4ihwelbksfmuv8a4ihpu7uqnj",
+        "passwordHash": "e6e38b4bc47cf02cab0f221ee486c7c0ce776f09cb20f12be3f41afe26ac7cde",
+        "createdAt": "2026-10-05T12:30:44.545Z"
+      },
+      "student": null
+    }
+  }
+]
