@@ -376,7 +376,7 @@
   {
     "id": "muv9khtb7vxbusf",
     "type": "grade",
-    "status": "pending",
+    "status": "approved",
     "studentId": "muu91ecs2xn7yt5",
     "studentName": "Михайлов Даниил",
     "owner": "self",
@@ -393,7 +393,9 @@
         "date": "2026-10-05",
         "comment": ""
       }
-    }
+    },
+    "processedAt": "2026-10-05T13:16:00.775Z",
+    "processedBy": "warck@mail.ru"
   },
   {
     "id": "muv9l54kgww4bm8",
