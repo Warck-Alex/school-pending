@@ -456,5 +456,27 @@
         "comment": ""
       }
     }
+  },
+  {
+    "id": "muv9sf3wdlufc2t",
+    "type": "schedule",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "warck@tut.by",
+    "byName": "Михайлов Даниил",
+    "createdAt": "2026-10-05T13:12:54.140Z",
+    "payload": {
+      "op": "add",
+      "lesson": {
+        "id": "muv9sf3vhpalj6c",
+        "day": "Понедельник",
+        "time": "",
+        "subject": "Математика",
+        "room": "",
+        "homework": ""
+      }
+    }
   }
 ]
