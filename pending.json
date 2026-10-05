@@ -510,5 +510,27 @@
     },
     "processedAt": "2026-10-05T13:18:21.278Z",
     "processedBy": "warck@mail.ru"
+  },
+  {
+    "id": "muvaluqlg6m91ot",
+    "type": "grade",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "warck@tut.by",
+    "byName": "Михайлов Даниил",
+    "createdAt": "2026-10-05T13:35:47.421Z",
+    "payload": {
+      "op": "add",
+      "subjectName": "Физика",
+      "gradeId": "muvaluqh5ilmfyk",
+      "grade": {
+        "value": 7,
+        "type": "Другое",
+        "date": "2026-10-05",
+        "comment": ""
+      }
+    }
   }
 ]
