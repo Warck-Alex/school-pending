@@ -434,5 +434,27 @@
         "comment": ""
       }
     }
+  },
+  {
+    "id": "muv9mqjd70vmxkx",
+    "type": "grade",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "warck@tut.by",
+    "byName": "Михайлов Даниил",
+    "createdAt": "2026-10-05T13:08:29.017Z",
+    "payload": {
+      "op": "add",
+      "subjectName": "Белорусский язык",
+      "gradeId": "muv9mqjbvx7ybzw",
+      "grade": {
+        "value": 8,
+        "type": "Другое",
+        "date": "2026-10-05",
+        "comment": ""
+      }
+    }
   }
 ]
