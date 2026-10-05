@@ -472,7 +472,7 @@
   {
     "id": "muv9sf3wdlufc2t",
     "type": "schedule",
-    "status": "pending",
+    "status": "approved",
     "studentId": "muu91ecs2xn7yt5",
     "studentName": "Михайлов Даниил",
     "owner": "self",
@@ -489,6 +489,8 @@
         "room": "",
         "homework": ""
       }
-    }
+    },
+    "processedAt": "2026-10-05T13:16:18.089Z",
+    "processedBy": "warck@mail.ru"
   }
 ]
