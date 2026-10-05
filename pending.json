@@ -496,7 +496,7 @@
   {
     "id": "muv9z71zhf67fte",
     "type": "grade",
-    "status": "pending",
+    "status": "approved",
     "studentId": "muu91ecs2xn7yt5",
     "studentName": "Михайлов Даниил",
     "owner": "self",
@@ -507,6 +507,8 @@
       "op": "delete",
       "subjectName": "Белорусский язык",
       "gradeId": "muv9mqjbvx7ybzw"
-    }
+    },
+    "processedAt": "2026-10-05T13:18:21.278Z",
+    "processedBy": "warck@mail.ru"
   }
 ]
