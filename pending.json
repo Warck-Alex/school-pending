@@ -534,5 +534,28 @@
     },
     "processedAt": "2026-10-05T13:40:27.431Z",
     "processedBy": "irina@mail.ru"
+  },
+  {
+    "id": "muvjtk1w73bfz8p",
+    "type": "new_user",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "ngshord@gmail.com",
+    "byName": "Даниил Михайлов",
+    "createdAt": "2026-10-05T17:53:43.364Z",
+    "payload": {
+      "user": {
+        "uid": "muvjtk1njrwcb3p",
+        "email": "ngshord@gmail.com",
+        "name": "Даниил Михайлов",
+        "studentId": "muu91ecs2xn7yt5",
+        "salt": "muvjt4fw37utvtumuvjt4fwydmls43",
+        "passwordHash": "f93fc131fe9bf4335b1c19ccfde754dca59304d9b28310e728b202d0785113e3",
+        "createdAt": "2026-10-05T17:53:43.355Z"
+      },
+      "student": null
+    }
   }
 ]
