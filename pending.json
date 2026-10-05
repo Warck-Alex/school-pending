@@ -175,5 +175,21 @@
       "subjectName": "Английский язык",
       "gradeId": "muv38zie874fotn"
     }
+  },
+  {
+    "id": "muv8c5numh68lmm",
+    "type": "grade",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "warck@tut.by",
+    "byName": "Михайлов Даниил",
+    "createdAt": "2026-10-05T12:32:15.786Z",
+    "payload": {
+      "op": "delete",
+      "subjectName": "Математика",
+      "gradeId": "muucdsr4351v538"
+    }
   }
 ]
