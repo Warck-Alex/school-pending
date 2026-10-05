@@ -346,5 +346,27 @@
         "comment": ""
       }
     }
+  },
+  {
+    "id": "muv9j4dylecbeze",
+    "type": "grade",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "warck@tut.by",
+    "byName": "Михайлов Даниил",
+    "createdAt": "2026-10-05T13:05:40.342Z",
+    "payload": {
+      "op": "add",
+      "subjectName": "Обществоведение",
+      "gradeId": "muv9j4dujx9q8bj",
+      "grade": {
+        "value": 5,
+        "type": "Другое",
+        "date": "2026-10-05",
+        "comment": ""
+      }
+    }
   }
 ]
