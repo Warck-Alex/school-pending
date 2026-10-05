@@ -103,7 +103,7 @@
   {
     "id": "muv8bvj7nwym0l9",
     "type": "grade",
-    "status": "pending",
+    "status": "approved",
     "studentId": "muu91ecs2xn7yt5",
     "studentName": "Михайлов Даниил",
     "owner": "self",
@@ -114,7 +114,9 @@
       "op": "delete",
       "subjectName": "Русская литература",
       "gradeId": "muv3954wnmscm0u"
-    }
+    },
+    "processedAt": "2026-10-05T12:32:47.459Z",
+    "processedBy": "warck@mail.ru"
   },
   {
     "id": "muv8by6dthny37y",
