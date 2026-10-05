@@ -95,5 +95,21 @@
       "subjectName": "Русский язык",
       "gradeId": "muuce7j83hf2qpr"
     }
+  },
+  {
+    "id": "muv8bvj7nwym0l9",
+    "type": "grade",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "warck@tut.by",
+    "byName": "Михайлов Даниил",
+    "createdAt": "2026-10-05T12:32:02.659Z",
+    "payload": {
+      "op": "delete",
+      "subjectName": "Русская литература",
+      "gradeId": "muv3954wnmscm0u"
+    }
   }
 ]
