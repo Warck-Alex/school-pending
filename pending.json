@@ -267,7 +267,7 @@
   {
     "id": "muv8ce8jxbrko02",
     "type": "grade",
-    "status": "pending",
+    "status": "approved",
     "studentId": "muu91ecs2xn7yt5",
     "studentName": "Михайлов Даниил",
     "owner": "self",
@@ -278,6 +278,8 @@
       "op": "delete",
       "subjectName": "География",
       "gradeId": "muuce1ji9pthdwj"
-    }
+    },
+    "processedAt": "2026-10-05T12:33:41.175Z",
+    "processedBy": "warck@mail.ru"
   }
 ]
