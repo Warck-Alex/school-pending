@@ -195,7 +195,7 @@
   {
     "id": "muv8c5numh68lmm",
     "type": "grade",
-    "status": "pending",
+    "status": "approved",
     "studentId": "muu91ecs2xn7yt5",
     "studentName": "Михайлов Даниил",
     "owner": "self",
@@ -206,7 +206,9 @@
       "op": "delete",
       "subjectName": "Математика",
       "gradeId": "muucdsr4351v538"
-    }
+    },
+    "processedAt": "2026-10-05T12:33:20.369Z",
+    "processedBy": "warck@mail.ru"
   },
   {
     "id": "muv8c8577mh8uj8",
