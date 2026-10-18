@@ -105,5 +105,27 @@
         "comment": ""
       }
     }
+  },
+  {
+    "id": "mve8smt3xf2shbu",
+    "type": "grade",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "ngshord@gmail.com",
+    "byName": "Даниил Михайлов",
+    "createdAt": "2026-10-18T19:52:41.847Z",
+    "payload": {
+      "op": "edit",
+      "subjectName": "География",
+      "gradeId": "mve8shddloz6o5q",
+      "grade": {
+        "value": 6,
+        "type": "Самостоятельная работа",
+        "date": "2026-09-28",
+        "comment": ""
+      }
+    }
   }
 ]
