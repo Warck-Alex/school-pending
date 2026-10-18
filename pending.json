@@ -217,7 +217,7 @@
   {
     "id": "mve8wf7dr5andaq",
     "type": "catalog",
-    "status": "pending",
+    "status": "approved",
     "studentId": "muu91ecs2xn7yt5",
     "studentName": "Михайлов Даниил",
     "owner": "self",
@@ -227,7 +227,9 @@
     "payload": {
       "op": "add",
       "name": "Труды"
-    }
+    },
+    "processedAt": "2026-10-18T20:12:07.641Z",
+    "processedBy": "warck@mail.ru"
   },
   {
     "id": "mve8xfdhyvk15wn",
