@@ -171,5 +171,27 @@
         "comment": ""
       }
     }
+  },
+  {
+    "id": "mve8vi7jq0go17r",
+    "type": "grade",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "ngshord@gmail.com",
+    "byName": "Даниил Михайлов",
+    "createdAt": "2026-10-18T19:54:55.855Z",
+    "payload": {
+      "op": "add",
+      "subjectName": "История Беларуси",
+      "gradeId": "mve8vi78k6kzqhd",
+      "grade": {
+        "value": 8,
+        "type": "Устный ответ",
+        "date": "2026-10-01",
+        "comment": ""
+      }
+    }
   }
 ]
