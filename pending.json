@@ -193,5 +193,20 @@
         "comment": ""
       }
     }
+  },
+  {
+    "id": "mve8wf7dr5andaq",
+    "type": "catalog",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "ngshord@gmail.com",
+    "byName": "Даниил Михайлов",
+    "createdAt": "2026-10-18T19:55:38.617Z",
+    "payload": {
+      "op": "add",
+      "name": "Труды"
+    }
   }
 ]
