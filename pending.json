@@ -2,7 +2,7 @@
   {
     "id": "mvcg91cxtdxo42y",
     "type": "password",
-    "status": "pending",
+    "status": "approved",
     "studentId": "muu91ecs2xn7yt5",
     "studentName": "Михайлов Даниил",
     "owner": "self",
@@ -14,7 +14,9 @@
       "salt": "mvcg91cn7ut877hmvcg91coxop4r1x",
       "passwordHash": "4653a4f44ebe50c56c97eb919ddf2afee24c97cb6c475cbaaea55b00d84d78d3",
       "verified": "screen"
-    }
+    },
+    "processedAt": "2026-10-18T20:05:13.025Z",
+    "processedBy": "warck@mail.ru"
   },
   {
     "id": "mve8q4y9f6qdamy",
