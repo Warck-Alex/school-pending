@@ -21,7 +21,7 @@
   {
     "id": "mve8q4y9f6qdamy",
     "type": "catalog",
-    "status": "pending",
+    "status": "approved",
     "studentId": "muu91ecs2xn7yt5",
     "studentName": "Михайлов Даниил",
     "owner": "self",
@@ -31,7 +31,9 @@
     "payload": {
       "op": "add",
       "name": "Искусство"
-    }
+    },
+    "processedAt": "2026-10-18T20:08:20.875Z",
+    "processedBy": "warck@mail.ru"
   },
   {
     "id": "mve8qwcrt07gfjd",
