@@ -30,5 +30,20 @@
       "op": "add",
       "name": "Искусство"
     }
+  },
+  {
+    "id": "mve8qwcrt07gfjd",
+    "type": "catalog",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "ngshord@gmail.com",
+    "byName": "Даниил Михайлов",
+    "createdAt": "2026-10-18T19:51:20.907Z",
+    "payload": {
+      "op": "add",
+      "name": "Искусство"
+    }
   }
 ]
