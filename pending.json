@@ -45,5 +45,27 @@
       "op": "add",
       "name": "Искусство"
     }
+  },
+  {
+    "id": "mve8s1bkqkgt1o3",
+    "type": "grade",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "ngshord@gmail.com",
+    "byName": "Даниил Михайлов",
+    "createdAt": "2026-10-18T19:52:14.000Z",
+    "payload": {
+      "op": "add",
+      "subjectName": "География",
+      "gradeId": "mve8s1b910pa2u3",
+      "grade": {
+        "value": 6,
+        "type": "Самостоятельная работа",
+        "date": "2026-10-18",
+        "comment": ""
+      }
+    }
   }
 ]
