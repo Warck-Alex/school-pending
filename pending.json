@@ -254,5 +254,27 @@
     },
     "processedAt": "2026-10-18T20:11:53.406Z",
     "processedBy": "warck@mail.ru"
+  },
+  {
+    "id": "mvgnkn8axw2jql5",
+    "type": "grade",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "ngshord@gmail.com",
+    "byName": "Даниил Михайлов",
+    "createdAt": "2026-10-20T12:21:55.738Z",
+    "payload": {
+      "op": "add",
+      "subjectName": "Английский язык",
+      "gradeId": "mvgnkn7z1rvqy4f",
+      "grade": {
+        "value": 8,
+        "type": "Другое",
+        "date": "2026-10-20",
+        "comment": ""
+      }
+    }
   }
 ]
