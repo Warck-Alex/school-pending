@@ -380,5 +380,27 @@
         "comment": ""
       }
     }
+  },
+  {
+    "id": "mvgnmk9d5em3jz7",
+    "type": "grade",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "ngshord@gmail.com",
+    "byName": "Даниил Михайлов",
+    "createdAt": "2026-10-20T12:23:25.201Z",
+    "payload": {
+      "op": "add",
+      "subjectName": "Всемирная история",
+      "gradeId": "mvgnmk8s9wgbxo2",
+      "grade": {
+        "value": 8,
+        "type": "Устный ответ",
+        "date": "2026-10-20",
+        "comment": ""
+      }
+    }
   }
 ]
