@@ -298,5 +298,21 @@
         "comment": ""
       }
     }
+  },
+  {
+    "id": "mvgnlfgkgctm9lj",
+    "type": "grade",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "ngshord@gmail.com",
+    "byName": "Даниил Михайлов",
+    "createdAt": "2026-10-20T12:22:32.324Z",
+    "payload": {
+      "op": "delete",
+      "subjectName": "Информатика",
+      "gradeId": "mvgnl35z0z682j1"
+    }
   }
 ]
