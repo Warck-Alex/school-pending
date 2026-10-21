@@ -306,7 +306,7 @@
   {
     "id": "mvgnlfgkgctm9lj",
     "type": "grade",
-    "status": "pending",
+    "status": "approved",
     "studentId": "muu91ecs2xn7yt5",
     "studentName": "Михайлов Даниил",
     "owner": "self",
@@ -317,7 +317,9 @@
       "op": "delete",
       "subjectName": "Информатика",
       "gradeId": "mvgnl35z0z682j1"
-    }
+    },
+    "processedAt": "2026-10-21T12:04:33.899Z",
+    "processedBy": "warck@mail.ru"
   },
   {
     "id": "mvgnllw7omouxts",
