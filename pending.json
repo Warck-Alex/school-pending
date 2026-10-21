@@ -1,261 +1,5 @@
 [
   {
-    "id": "mvcg91cxtdxo42y",
-    "type": "password",
-    "status": "approved",
-    "studentId": "muu91ecs2xn7yt5",
-    "studentName": "Михайлов Даниил",
-    "owner": "self",
-    "by": "",
-    "byName": "",
-    "createdAt": "2026-10-17T13:45:52.161Z",
-    "payload": {
-      "email": "ngshord@gmail.com",
-      "salt": "mvcg91cn7ut877hmvcg91coxop4r1x",
-      "passwordHash": "4653a4f44ebe50c56c97eb919ddf2afee24c97cb6c475cbaaea55b00d84d78d3",
-      "verified": "screen"
-    },
-    "processedAt": "2026-10-18T20:05:13.025Z",
-    "processedBy": "warck@mail.ru"
-  },
-  {
-    "id": "mve8q4y9f6qdamy",
-    "type": "catalog",
-    "status": "approved",
-    "studentId": "muu91ecs2xn7yt5",
-    "studentName": "Михайлов Даниил",
-    "owner": "self",
-    "by": "ngshord@gmail.com",
-    "byName": "Даниил Михайлов",
-    "createdAt": "2026-10-18T19:50:45.393Z",
-    "payload": {
-      "op": "add",
-      "name": "Искусство"
-    },
-    "processedAt": "2026-10-18T20:08:20.875Z",
-    "processedBy": "warck@mail.ru"
-  },
-  {
-    "id": "mve8qwcrt07gfjd",
-    "type": "catalog",
-    "status": "approved",
-    "studentId": "muu91ecs2xn7yt5",
-    "studentName": "Михайлов Даниил",
-    "owner": "self",
-    "by": "ngshord@gmail.com",
-    "byName": "Даниил Михайлов",
-    "createdAt": "2026-10-18T19:51:20.907Z",
-    "payload": {
-      "op": "add",
-      "name": "Искусство"
-    },
-    "processedAt": "2026-10-18T20:12:02.337Z",
-    "processedBy": "warck@mail.ru"
-  },
-  {
-    "id": "mve8s1bkqkgt1o3",
-    "type": "grade",
-    "status": "approved",
-    "studentId": "muu91ecs2xn7yt5",
-    "studentName": "Михайлов Даниил",
-    "owner": "self",
-    "by": "ngshord@gmail.com",
-    "byName": "Даниил Михайлов",
-    "createdAt": "2026-10-18T19:52:14.000Z",
-    "payload": {
-      "op": "add",
-      "subjectName": "География",
-      "gradeId": "mve8s1b910pa2u3",
-      "grade": {
-        "value": 6,
-        "type": "Самостоятельная работа",
-        "date": "2026-10-18",
-        "comment": ""
-      }
-    },
-    "processedAt": "2026-10-18T20:11:07.874Z",
-    "processedBy": "warck@mail.ru"
-  },
-  {
-    "id": "mve8s6ld3jx12uu",
-    "type": "grade",
-    "status": "approved",
-    "studentId": "muu91ecs2xn7yt5",
-    "studentName": "Михайлов Даниил",
-    "owner": "self",
-    "by": "ngshord@gmail.com",
-    "byName": "Даниил Михайлов",
-    "createdAt": "2026-10-18T19:52:20.833Z",
-    "payload": {
-      "op": "delete",
-      "subjectName": "География",
-      "gradeId": "mve8s1b910pa2u3"
-    },
-    "processedAt": "2026-10-18T20:11:13.496Z",
-    "processedBy": "warck@mail.ru"
-  },
-  {
-    "id": "mve8shdmzvjfb5r",
-    "type": "grade",
-    "status": "approved",
-    "studentId": "muu91ecs2xn7yt5",
-    "studentName": "Михайлов Даниил",
-    "owner": "self",
-    "by": "ngshord@gmail.com",
-    "byName": "Даниил Михайлов",
-    "createdAt": "2026-10-18T19:52:34.810Z",
-    "payload": {
-      "op": "add",
-      "subjectName": "География",
-      "gradeId": "mve8shddloz6o5q",
-      "grade": {
-        "value": 8,
-        "type": "Самостоятельная работа",
-        "date": "2026-09-28",
-        "comment": ""
-      }
-    },
-    "processedAt": "2026-10-18T20:11:21.645Z",
-    "processedBy": "warck@mail.ru"
-  },
-  {
-    "id": "mve8smt3xf2shbu",
-    "type": "grade",
-    "status": "approved",
-    "studentId": "muu91ecs2xn7yt5",
-    "studentName": "Михайлов Даниил",
-    "owner": "self",
-    "by": "ngshord@gmail.com",
-    "byName": "Даниил Михайлов",
-    "createdAt": "2026-10-18T19:52:41.847Z",
-    "payload": {
-      "op": "edit",
-      "subjectName": "География",
-      "gradeId": "mve8shddloz6o5q",
-      "grade": {
-        "value": 6,
-        "type": "Самостоятельная работа",
-        "date": "2026-09-28",
-        "comment": ""
-      }
-    },
-    "processedAt": "2026-10-18T20:11:25.935Z",
-    "processedBy": "warck@mail.ru"
-  },
-  {
-    "id": "mve8uehamxj9qci",
-    "type": "grade",
-    "status": "approved",
-    "studentId": "muu91ecs2xn7yt5",
-    "studentName": "Михайлов Даниил",
-    "owner": "self",
-    "by": "ngshord@gmail.com",
-    "byName": "Даниил Михайлов",
-    "createdAt": "2026-10-18T19:54:04.366Z",
-    "payload": {
-      "op": "add",
-      "subjectName": "География",
-      "gradeId": "mve8uegz0jx3x9x",
-      "grade": {
-        "value": 7,
-        "type": "Самостоятельная работа",
-        "date": "2026-09-30",
-        "comment": ""
-      }
-    },
-    "processedAt": "2026-10-18T20:11:34.409Z",
-    "processedBy": "warck@mail.ru"
-  },
-  {
-    "id": "mve8v0yv37ys26p",
-    "type": "grade",
-    "status": "approved",
-    "studentId": "muu91ecs2xn7yt5",
-    "studentName": "Михайлов Даниил",
-    "owner": "self",
-    "by": "ngshord@gmail.com",
-    "byName": "Даниил Михайлов",
-    "createdAt": "2026-10-18T19:54:33.511Z",
-    "payload": {
-      "op": "add",
-      "subjectName": "География",
-      "gradeId": "mve8v0ylnn2lv2e",
-      "grade": {
-        "value": 6,
-        "type": "Самостоятельная работа",
-        "date": "2026-09-28",
-        "comment": ""
-      }
-    },
-    "processedAt": "2026-10-18T20:11:38.017Z",
-    "processedBy": "warck@mail.ru"
-  },
-  {
-    "id": "mve8vi7jq0go17r",
-    "type": "grade",
-    "status": "approved",
-    "studentId": "muu91ecs2xn7yt5",
-    "studentName": "Михайлов Даниил",
-    "owner": "self",
-    "by": "ngshord@gmail.com",
-    "byName": "Даниил Михайлов",
-    "createdAt": "2026-10-18T19:54:55.855Z",
-    "payload": {
-      "op": "add",
-      "subjectName": "История Беларуси",
-      "gradeId": "mve8vi78k6kzqhd",
-      "grade": {
-        "value": 8,
-        "type": "Устный ответ",
-        "date": "2026-10-01",
-        "comment": ""
-      }
-    },
-    "processedAt": "2026-10-18T20:11:42.582Z",
-    "processedBy": "warck@mail.ru"
-  },
-  {
-    "id": "mve8wf7dr5andaq",
-    "type": "catalog",
-    "status": "approved",
-    "studentId": "muu91ecs2xn7yt5",
-    "studentName": "Михайлов Даниил",
-    "owner": "self",
-    "by": "ngshord@gmail.com",
-    "byName": "Даниил Михайлов",
-    "createdAt": "2026-10-18T19:55:38.617Z",
-    "payload": {
-      "op": "add",
-      "name": "Труды"
-    },
-    "processedAt": "2026-10-18T20:12:07.641Z",
-    "processedBy": "warck@mail.ru"
-  },
-  {
-    "id": "mve8xfdhyvk15wn",
-    "type": "grade",
-    "status": "approved",
-    "studentId": "muu91ecs2xn7yt5",
-    "studentName": "Михайлов Даниил",
-    "owner": "self",
-    "by": "ngshord@gmail.com",
-    "byName": "Даниил Михайлов",
-    "createdAt": "2026-10-18T19:56:25.493Z",
-    "payload": {
-      "op": "add",
-      "subjectName": "Всемирная история",
-      "gradeId": "mve8xfd655d16wj",
-      "grade": {
-        "value": 9,
-        "type": "Устный ответ",
-        "date": "2026-10-05",
-        "comment": ""
-      }
-    },
-    "processedAt": "2026-10-18T20:11:53.406Z",
-    "processedBy": "warck@mail.ru"
-  },
-  {
     "id": "mvgnkn8axw2jql5",
     "type": "grade",
     "status": "approved",
@@ -464,5 +208,27 @@
     },
     "processedAt": "2026-10-21T12:05:16.310Z",
     "processedBy": "warck@mail.ru"
+  },
+  {
+    "id": "mviog5nkb2utnxc",
+    "type": "grade",
+    "status": "pending",
+    "studentId": "muu91ecs2xn7yt5",
+    "studentName": "Михайлов Даниил",
+    "owner": "self",
+    "by": "ngshord@gmail.com",
+    "byName": "Даниил Михайлов",
+    "createdAt": "2026-10-21T22:21:58.304Z",
+    "payload": {
+      "op": "add",
+      "subjectName": "География",
+      "gradeId": "mviog5n5upjfgi6",
+      "grade": {
+        "value": 4,
+        "type": "Устный ответ",
+        "date": "2026-10-21",
+        "comment": ""
+      }
+    }
   }
 ]
